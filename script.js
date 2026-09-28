@@ -35,7 +35,7 @@ function displayResults() {
   return lines.join('\n');
 }
 
-// User stories 6 & 7: at least three options and at least three votes
+// Testing a couple of User Stories: at least three options and at least three votes
 addOption('Turkey');
 addOption('Morocco');
 addOption('Spain');
