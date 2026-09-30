@@ -1,6 +1,8 @@
 # 🗳️ Voting-System
 
-A small, dependency-free polling application implemented in a single JavaScript file (`script.js`). It lets you add poll options, cast votes, and display the results — all backed by a `Map` of `Set`s.
+A small, dependency-free polling application implemented in a single JavaScript file (`script.js`). It lets you add poll options, cast votes, and display the results — all backed by a `Map` of `Set`'s.
+
+[README em português](https://github.com/SabryIR/Voting-System/blob/main/README.pt-BR.md)
 
 ## Overview
 
@@ -18,7 +20,7 @@ script.js   # The entire application: poll state, addOption(), vote(), displayRe
 
 ## Running
 
-Requires a modern Node.js runtime (e.g. Node 18+).
+Requires a modern Node.js runtime (e.g. Node 24+).
 
 ```bash
 node script.js
